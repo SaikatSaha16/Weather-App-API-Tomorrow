@@ -1,5 +1,5 @@
 body {
-    background: #52616d;
+    background: #147ace;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
@@ -9,7 +9,7 @@ body {
 }
 
 #weather-container {
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(171, 207, 10, 0.829);
     max-width: 400px;
     padding: 20px;
     border-radius: 15px;
